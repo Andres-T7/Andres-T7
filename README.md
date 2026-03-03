@@ -1,5 +1,5 @@
 
-# Hi there, I'm Andrés 👋
+# Hi there, I'm Andrés 
 
 I'm a Data Analyst with a background in international business, currently working in international logistics with a focus on supply chain management and U.S. imports. Recently graduated in Data Analytics, I'm actively building a portfolio of end-to-end projects that reflect my passion for turning data into decisions.
 
