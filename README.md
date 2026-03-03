@@ -1,3 +1,4 @@
+
 # Hi there, I'm Andrés 👋
 
 I'm a Data Analyst with a background in international business, currently working in international logistics with a focus on supply chain management and U.S. imports. Recently graduated in Data Analytics, I'm actively building a portfolio of end-to-end projects that reflect my passion for turning data into decisions.
@@ -22,10 +23,10 @@ What drives me is the ability to uncover key business insights and transform the
 
 ## 📂 Featured Projects
 
-| Project | Description | Tools |
-| ------- | ----------- | ----- |
-| [Digital Book Market Analysis](https://github.com/Andres-T7/proyecto-ebooks-sql) | SQL-based exploratory analysis on a competitor's catalog to identify strategic opportunities for a new book app | Python, SQL, PostgreSQL |
-| [A/A/B Testing & Sales Funnel Analysis](https://github.com/Andres-T7/ab-testing-online-store) | End-to-end behavioral analysis evaluating the impact of a typography change on user conversion | Python, SciPy, Pandas |
+| Project                                                                                       | Description                                                                                                     | Tools                   |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [Digital Book Market Analysis](https://github.com/Andres-T7/proyecto-ebooks-sql)              | SQL-based exploratory analysis on a competitor's catalog to identify strategic opportunities for a new book app | Python, SQL, PostgreSQL |
+| [A/A/B Testing & Sales Funnel Analysis](https://github.com/Andres-T7/ab-testing-online-store) | End-to-end behavioral analysis evaluating the impact of a typography change on user conversion                  | Python, SciPy, Pandas   |
 
 ---
 
