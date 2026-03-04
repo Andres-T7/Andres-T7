@@ -1,10 +1,15 @@
 
 # Hi there, I'm Andrés 
 
-I'm a Data Analyst with a background in international business, currently working in international logistics with a focus on supply chain management and U.S. imports. Recently graduated in Data Analytics, I'm actively building a portfolio of end-to-end projects that reflect my passion for turning data into decisions.
+- 📊 I'm a Data Analyst with a background in business and supply chain
+- 📈 Continuously enhancing my analytical skill set through hands-on practice in Python, SQL, and data visualization, focusing on real-world business applications.
+- 💡 Passionate about turning complex data into actionable business insights that drive strategic decisions.
+- 🚀 Strong interest in analytics, automation, process optimization, and performance measurement.
+- 🎯 Currently transitioning into a fully data-focused role where analytical thinking meets measurable business impact.
+- 📫 How to reach me: andrestrujillovasquez@gmail.com
+## 📫 Let's Connect
 
-What drives me is the ability to uncover key business insights and transform them into strategies that deliver real value — helping companies grow and stay competitive over time. I'm looking to transition fully into a data-focused role where analytical thinking meets business impact.
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andrestrujillov)
 ---
 
 ## 🛠️ Technical Skills
@@ -29,7 +34,8 @@ What drives me is the ability to uncover key business insights and transform the
 | [A/A/B Testing & Sales Funnel Analysis](https://github.com/Andres-T7/ab-testing-online-store) | End-to-end behavioral analysis evaluating the impact of a typography change on user conversion                  | Python, SciPy, Pandas   |
 
 ---
+### Languages:
 
-## 📫 Let's Connect
+- 🇺🇸 English (Professional Working Proficiency)
+- 🇪🇸 Spanish (Native)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
