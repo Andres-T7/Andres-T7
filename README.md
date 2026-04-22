@@ -30,7 +30,7 @@
 
 | Project                                                                                       | Description                                                                                                     | Tools                   |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [Digital Book Market Analysis](https://github.com/Andres-T7/proyecto-ebooks-sql)              | SQL-based exploratory analysis on a competitor's catalog to identify strategic opportunities for a new book app | Python, SQL, PostgreSQL |
+| [Digital Book Market Analysis](https://github.com/Andres-T7/sql-project.git)              | SQL-based exploratory analysis on a competitor's catalog to identify strategic opportunities for a new book app | Python, SQL, PostgreSQL |
 | [A/A/B Testing & Sales Funnel Analysis](https://github.com/Andres-T7/ab-testing-online-store) | End-to-end behavioral analysis evaluating the impact of a typography change on user conversion                  | Python, SciPy, Pandas   |
 
 ---
